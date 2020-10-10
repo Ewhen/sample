@@ -1,0 +1,17 @@
+body{font-style: normal;text-align: left;background-color:#b3b3b3;margin: 2%;}
+header{text-align: center;display: block;padding: 10px; border-radius: 25px}
+nav{font-variant: small-caps; font-family: Arial; font-size: 140%;}
+nav a{width: 12%; display: inline-block;background-color:#FFFFFF }
+h1{font-size: 300%; color: #FFFFFF}
+#list ul{list-style-image: url('https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/_422891ead8ea33c9923c42515e58c1b7_lightning.png?expiry=1602460800000&hmac=mu2E5u3D1o18RY1LSEfKMG9-UapoVMclYnArq7cbBag');}
+h2{font-family: arial;background: #00b7ea; font-size: 150%;}
+section{width: 30%; display: inline-block;float: left; margin-right: 3%;}
+footer{color:#FFFFFF;clear:both;border-radius: 15px; text-align: center;padding: 10px}
+img{width: 125px;}
+a:hover{color:gold}
+a:focus{color:#FFFFFF}
+a{display: inline-block;text-decoration: none;margin-left: 10px; color: black}
+.half{width: 48%; margin-right: 2%;display: inline-block;float:left;}
+.whole{width: 100%;display: inline-block;float:left;}
+.links:hover{background: black; transform: scale(1.1,1.1);border-radius: 10px;transition-duration: 1s}
+footer, header{background: linear-gradient(#666666,#00b7ea)}
